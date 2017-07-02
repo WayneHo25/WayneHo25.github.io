@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hello World
+tags: Web
+---
+
 # Hello World
 
 This is the first post for my blog.
