@@ -41,3 +41,5 @@ Words: start tag, end tag, HTML commands are called elements, \<h1> means level 
 ## View the HTML of any page
 
 Keyboard: opt + command + U
+
+End
